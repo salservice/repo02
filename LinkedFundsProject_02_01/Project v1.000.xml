@@ -5,8 +5,9 @@
   <LastModifiedOn xsi:nil="true" />
   <CreatedOn xsi:nil="true" />
   <Folder>false</Folder>
-  <LastModified>2025-08-22T23:47:43.1505955+01:00</LastModified>
+  <LastModified>2025-08-29T10:44:13.3594641+01:00</LastModified>
   <Notes />
+  <OpeningInformation />
   <IsExpanded>true</IsExpanded>
   <CreateDate>2025-08-21T11:11:10.5405802+01:00</CreateDate>
   <UserId>LawrenceTsang</UserId>
@@ -213,7 +214,15 @@
         <string>22159255-5be3-4427-afb1-718574741bb4</string>
       </value>
     </item>
+    <item>
+      <key>
+        <int>25</int>
+      </key>
+      <value>
+        <string>fbd3275c-744c-466b-9a51-22afdc63e7d5</string>
+      </value>
+    </item>
   </RevisionIds>
-  <CommitRef>4d71aac</CommitRef>
+  <CommitRef>82e8b1f</CommitRef>
   <OpenAsReadOnly>false</OpenAsReadOnly>
 </Project>
